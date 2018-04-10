@@ -1,5 +1,5 @@
 var name="Rajat Bhardwaj"
-
+z=1;
 for(var i=0;i<3;i++){
     name+=name;
 }
