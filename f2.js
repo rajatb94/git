@@ -9,6 +9,7 @@ function findNow(){
     a=a*3+4-3/2;
     var k=44444;
     var str=k+"Ddddd";
+	var t=333;
 	var b="sjgjhgjhs";
     if(koname.includes("a"))
         console.log(name);
