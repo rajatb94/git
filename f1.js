@@ -10,3 +10,4 @@ function kuch(){
     })
 }
 kuch();
+jadu mantar kali kalantar;
