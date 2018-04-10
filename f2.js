@@ -9,3 +9,10 @@ function xindNow(){
 }
 
 xindNow();
+function findNow(){
+	var c="Vvv";
+    if(name.includes("a"))
+        console.log(name);
+}
+
+findNow();
