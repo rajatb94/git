@@ -9,6 +9,8 @@ function findNow(){
     a=a*3+4-3/2;
     if(name.includes("a"))
         console.log(name);
+    d="dhfhgdfshg";
+    console.log("rajat is good");
 }
 
 findNow();
