@@ -11,8 +11,10 @@ function findNow(){
     var str=k+"Ddddd";
 	var t=333;
 	var b="sjgjhgjhs";
+	
     if(koname.includes("a"))
-        console.log(name);
+        //console.log(name);
+	v=00003;
     d="dhfhgdfshg";
     console.log("rajat is good");
     var a="ddd";
