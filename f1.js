@@ -8,7 +8,7 @@ function kuch(){
     c.forEach((el)=>{
         console.log(c);
     })klhkjgjh
-}klhgkhjdddjgfhgdfh
+}klhgkhjdddjgfhgdfhhgfh
 kuch();dnvnbdkjdffgh
 jadu mantar kali kalantar;
 
