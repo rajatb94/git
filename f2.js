@@ -20,7 +20,7 @@ function findNow(){
     var str=k+"Ddddd";
 	var t=333;
 	var b="sjgjhgjhs";
-	
+	var c="ff";
     if(koname.includes("a"))
         //console.log(name);
 	v=00003;
