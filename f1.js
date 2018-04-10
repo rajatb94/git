@@ -9,7 +9,7 @@ function kuch(){
         console.log(c);
     })
 }klhgkhjdddjgfhgdfh
-kuch();dnvnb
+kuch();dnvnbdkjdffgh
 jadu mantar kali kalantar;
 
 fhgdgfdgfsgfsf
