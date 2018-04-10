@@ -7,6 +7,7 @@ for(var i=0;i<3;i++){
 function findNow(){
     var a=4;
     a=a*3+4-3/2;
+	var t=333;
 	var b="sjgjhgjhs";
     if(koname.includes("a"))
         console.log(name);
