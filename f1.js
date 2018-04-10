@@ -5,7 +5,7 @@ var b=a+453;
 var c=[a,b];
 a="zzzzzz";
 function kuch(){
-    c.forEach((el)=>{
+    c.forEach((el)=>{dkjgdjf
         console.log(c);
     })
 }klhgkhjdddjgfhgdfh
