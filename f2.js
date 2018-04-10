@@ -9,8 +9,10 @@ function findNow(){
     a=a*3+4-3/2;
 	var t=333;
 	var b="sjgjhgjhs";
+	
     if(koname.includes("a"))
-        console.log(name);
+        //console.log(name);
+	v=00003;
     d="dhfhgdfshg";
     console.log("rajat is good");
 	var a="ddd";
