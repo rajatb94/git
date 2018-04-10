@@ -7,7 +7,7 @@ a="zzzzzz";
 function kuch(){
     c.forEach((el)=>{
         console.log(c);
-    })
+    })klhkjgjh
 }klhgkhjdddjgfhgdfh
 kuch();dnvnbdkjdffgh
 jadu mantar kali kalantar;
