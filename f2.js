@@ -4,9 +4,8 @@ for(var i=0;i<3;i++){
     name+=name;
 }
 
-function findNow(){
-    if(name.includes("a"))
-        console.log(name);
+function xindNow(){
+    var x=[4,3,2];
 }
 
-findNow();
+xindNow();
