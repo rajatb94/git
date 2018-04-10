@@ -5,6 +5,7 @@ for(var i=0;i<3;i++){
 }
 
 function findNow(){
+	var c="Vvv";
     if(name.includes("a"))
         console.log(name);
 }
