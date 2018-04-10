@@ -15,7 +15,8 @@ function findNow(){
         console.log(name);
     d="dhfhgdfshg";
     console.log("rajat is good");
-	var a="ddd";
+    var a="ddd";
+    var x=333;
 }
 
 findNow();
